@@ -32,21 +32,21 @@ I adopt a meticulous and structured approach to every project, focusing on deliv
 - Achieved better inventory management and sales strategies by reducing forecasting error by 7%.
 
 **🔑 Key skills**: Time Series Forecasting, SARIMA, Python, Data Analysis, Inventory Optimization, Sales Prediction  
-**Repository**: [Grocery Demand Prediction](#)
+**Repository**: [GDP](#)
 
 ### 🧠 **Counterfeit IC Detection System**
 - Developed a custom **Convolutional Neural Network (CNN)** achieving 94% validation accuracy for counterfeit integrated circuit (IC) detection.
 - Benchmarked the model against **VGG16** and **AlexNet**, utilizing **PyTorch** for deep learning implementation and applying data augmentation techniques to enhance robustness.
 
 **🔑 Key skills**: Convolutional Neural Networks (CNN), Python, PyTorch, Deep Learning, Data Augmentation, Performance Benchmarking  
-**Repository**: [Counterfeit IC Detection](#)
+**Repository**: [Counterfeit-IC-Detection](#)
 
 ### 🔒 **K-Anonymity Using Randomization and Clustering**
 - Implemented **k-anonymity** through clustering, randomization, and bottom-up techniques to anonymize sensitive data while maintaining usability.
 - Achieved a reduction in total information loss by 20% compared to other algorithms, enhancing privacy preservation.
 
 **🔑 Key skills**: Machine Learning, Python, Data Anonymization, Clustering Algorithms, Randomization Techniques, Data Generalization Hierarchies, Privacy Preservation  
-**Repository**: [K-Anonymity Project](#)
+**Repository**: [K-Anonymity](#)
 
 ## ✨ Certifications
 - AWS Certified Solutions Architect
