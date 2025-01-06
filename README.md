@@ -7,13 +7,11 @@
 
 Hello 👋! I'm **Navyasri Kadiyala**, a passionate **Data Analyst** with a strong focus on **Machine Learning** and **Data Visualization**. With over two years of professional experience and a **Master’s in Computer Science**, I specialize in transforming complex data into clear, actionable insights. My goal is to use data to drive impactful business decisions and support growth.
 
-
-## 💡 My Focus  
+💡 My Focus  
 
 I am dedicated to using tools like **Power BI**, **Tableau**, and **Python** for **data analysis**, **visualization**, and **predictive modeling**. I work on uncovering hidden trends, creating interactive reports, and building machine learning models to optimize processes and help businesses succeed. I aim to make data approachable and actionable for strategic decision-making.
 
-
-## 🛠️ My Approach  
+🛠️ My Approach  
 
 My approach to each project is organized, efficient, and accuracy-driven. From **data cleaning** to **visualizing insights**, I ensure a smooth and dependable process that leads to high-quality results. I automate tasks using **Python** and **SQL**, streamlining operations and enhancing reporting accuracy.
 
