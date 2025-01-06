@@ -26,7 +26,7 @@ My approach to each project is organized, efficient, and accuracy-driven. From *
 - Reduced forecasting errors by 7%, enabling better inventory management and sales planning.
 
 **🔑 Key skills**: Time Series Forecasting, SARIMA, Python, Data Analysis, Inventory Optimization, Sales Prediction  
-**Repository**: [GDP](#)
+**Repository**: [view](https://github.com/navik12/GDP)
 
 
 ### 🧠 **Counterfeit IC Detection System**  
@@ -35,7 +35,7 @@ My approach to each project is organized, efficient, and accuracy-driven. From *
 - Benchmarked against **VGG16** and **AlexNet** and used **PyTorch** for deep learning, applying data augmentation for enhanced model robustness.
 
 **🔑 Key skills**: Deep Learning, CNN, PyTorch, Data Augmentation, Performance Benchmarking  
-**Repository**: [Counterfeit-IC-Detection](#)
+**Repository**: [view](https://github.com/navik12/Counterfeit-IC-Detection)
 
 
 ### 🔒 **K-Anonymity Using Randomization and Clustering**  
@@ -44,7 +44,7 @@ My approach to each project is organized, efficient, and accuracy-driven. From *
 - Achieved a 20% reduction in information loss compared to traditional algorithms, significantly improving privacy protection.
 
 **🔑 Key skills**: Data Anonymization, Clustering Algorithms, Machine Learning, Privacy Preservation  
-**Repository**: [K-Anonymity](#)
+**Repository**: [view](https://github.com/navik12/K-Anonymity)
 
 
 ## ✨ Certifications  
