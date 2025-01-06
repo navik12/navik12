@@ -3,26 +3,13 @@
 Email 📧: [kadiyalanavyasri3@gmail.com](mailto:kadiyalanavyasri3@gmail.com)
 
 ## 🔍 About Me  
-Hello 👋! I’m Navyasri Kadiyala, a passionate **Data Analyst** with a focus on **Machine Learning** and **Data Visualization**. With over two years of hands-on experience in the data analytics field, I specialize in transforming complex datasets into actionable insights that drive business growth. I hold a Master’s degree in **Computer Science** from the University of Kansas, where I honed my knowledge of advanced analytics techniques and technologies.
-
-Throughout my career, I have worked with diverse datasets and applied a variety of tools and methodologies to provide data-driven solutions. I take pride in using data to tell compelling stories, solve problems, and empower decision-makers to take informed actions. My passion lies in making sense of raw data and using it to create impactful business solutions.
+Hello 👋! I’m Navyasri Kadiyala, a Data Analyst focused on Machine Learning and Data Visualization. With over two years of experience and a Master’s in Computer Science, I specialize in converting complex data into actionable insights. I’m passionate about using data to drive business decisions and growth.
 
 ## 💡 My Focus  
-I specialize in **data analysis** and **visualization**, turning raw numbers into meaningful insights. My expertise spans various stages of data analysis, from data cleaning to predictive modeling. I work with tools like **Power BI**, **Tableau**, and **Python** to:
-
-- Uncover trends and patterns in large datasets.
-- Create interactive dashboards and reports that simplify complex data for stakeholders.
-- Build machine learning models that predict outcomes and optimize business processes.
-
-I enjoy making data understandable and actionable, using it to drive strategic decisions across different domains.
+I specialize in data analysis, visualization, and predictive modeling using tools like Power BI, Tableau, and Python. My expertise includes uncovering trends, creating interactive reports, and building machine learning models to optimize business processes. I strive to make data understandable and impactful for strategic decisions.
 
 ## 🛠️ My Approach  
-I adopt a meticulous and structured approach to every project, focusing on delivering both accuracy and efficiency. From the moment I gather data to the final report or model, my goal is to ensure the process is seamless and the results are reliable.
-
-- **Data Cleaning & Preparation**: I begin with careful data wrangling to ensure that the data is accurate and ready for analysis.
-- **Analysis & Insights**: Using advanced analytical techniques, I identify trends, correlations, and insights that can guide business strategy.
-- **Visualization & Reporting**: I create clear, actionable visualizations using tools like **Power BI** and **Tableau**, so business leaders can make data-driven decisions.
-- **Automation & Efficiency**: I use **Python** and **SQL** to automate repetitive tasks, saving time and improving the accuracy of reports.
+I follow a structured, efficient approach focused on accuracy in every project. From data cleaning to insights and visualization, I ensure seamless processes that deliver reliable results. I automate tasks using Python and SQL, improving efficiency and accuracy in reporting.
 
 ## 📂 Projects
 
