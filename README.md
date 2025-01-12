@@ -1,5 +1,5 @@
 # Hi 👋 I'm Navyasri Kadiyala  
-**Data Analyst | Software Developer | Web Developer**  
+**Software Developer | DevOps Engineering | Data Analyst**  
 📧 Email: [kadiyalanavyasri3@gmail.com](mailto:kadiyalanavyasri3@gmail.com)
 
 
