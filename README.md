@@ -1,6 +1,5 @@
 # Hi 👋 I'm Navyasri Kadiyala  
 **Software Developer | DevOps Engineering | Data Analyst** 
-
 💼 **Master's Student in Computer Science** | University of Kansas  
 
 📍 **Location**: Lawrence, KS  
