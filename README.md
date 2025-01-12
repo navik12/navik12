@@ -1,23 +1,24 @@
 # Hi 👋 I'm Navyasri Kadiyala  
-**Software Developer | DevOps Engineering | Data Analyst**  
-📧 Email: [kadiyalanavyasri3@gmail.com](mailto:kadiyalanavyasri3@gmail.com)
+**Software Developer | DevOps Engineering | Data Analyst** 
+💼 **Master's Student in Computer Science** | University of Kansas  
+
+📍 **Location**: Lawrence, KS  
+📫 Email: [kadiyalanavyasri3@gmail.com](mailto:kadiyalanavyasri3@gmail.com)
 
 
 ## 🔍 About Me  
 
-Hello 👋! I'm **Navyasri Kadiyala**, a passionate **Data Analyst** with a strong focus on **Machine Learning** and **Data Visualization**. With over two years of professional experience and a **Master’s in Computer Science**, I specialize in transforming complex data into clear, actionable insights. My goal is to use data to drive impactful business decisions and support growth.
+Hello 👋! I'm Navyasri Kadiyala, a passionate **Software Developer and DevOps Engineer** with a strong focus on **Cloud Computing and Automation**. With over two years of professional experience and a Master’s in Computer Science, I specialize in designing scalable systems and transforming complex challenges into elegant, efficient solutions. My mission is to drive innovation, streamline processes, and deliver impactful results.  
 
 💡 My Focus  
 
-I am dedicated to using tools like **Power BI**, **Tableau**, and **Python** for **data analysis**, **visualization**, and **predictive modeling**. I work on uncovering hidden trends, creating interactive reports, and building machine learning models to optimize processes and help businesses succeed. I aim to make data approachable and actionable for strategic decision-making.
+I am dedicated to leveraging tools like **AWS, Docker, and Jenkins** to build reliable cloud infrastructures and automate CI/CD pipelines. I focus on creating secure, scalable systems, optimizing processes, and implementing proactive monitoring to ensure 99.9% uptime. My work blends technical excellence with strategic thinking to enable seamless development and deployment.  
 
 🛠️ My Approach  
 
-My approach to each project is organized, efficient, and accuracy-driven. From **data cleaning** to **visualizing insights**, I ensure a smooth and dependable process that leads to high-quality results. I automate tasks using **Python** and **SQL**, streamlining operations and enhancing reporting accuracy.
-
+I bring an organized, detail-oriented, and automation-first mindset to every project. From designing robust architectures to deploying efficient pipelines, I ensure high-quality results through iterative improvements. I use tools like **Python, Java, and SQL** to automate workflows, optimize performance, and ensure secure operations. My collaborative approach ensures cross-functional alignment and on-time delivery of impactful solutions.  
 
 ## 📂 Projects  
-
 
 ### 🛒 **Grocery Demand Prediction**  
 
@@ -59,4 +60,4 @@ My approach to each project is organized, efficient, and accuracy-driven. From *
 
 ## 🌍 Let’s Connect!  
 
-I’m actively looking for exciting opportunities in **data analysis**, **software development**, and **cloud solutions**. If you're interested in collaborating on impactful projects, feel free to connect with me!
+I’m actively looking for exciting opportunities in **software development**, **DevOps Engineering** and **Data Analyst**. If you're interested in collaborating on impactful projects, feel free to connect with me!
