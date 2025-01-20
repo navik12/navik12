@@ -9,15 +9,15 @@
 
 ## 🔍 About Me  
 
-Hello 👋! I'm Navyasri Kadiyala, a passionate **Software Developer and DevOps Engineer** with a strong focus on **Cloud Computing and Automation**. With over two years of professional experience and a Master’s in Computer Science, I specialize in designing scalable systems and transforming complex challenges into elegant, efficient solutions. My mission is to drive innovation, streamline processes, and deliver impactful results.  
+Hello 👋! I'm **Navyasri Kadiyala**, a dedicated **Data Analyst and Cloud Integration Specialist** with expertise in **Data Analysis**, **Cloud Computing**, and **Automation**. With over two years of professional experience and a Master’s in **Computer Science**, I thrive on designing scalable systems, uncovering insights from complex datasets, and delivering impactful solutions. My mission is to leverage data and cloud technologies to drive innovation, optimize processes, and support strategic decision-making.  
 
 💡 My Focus  
 
-I am dedicated to leveraging tools like **AWS, Docker, and Jenkins** to build reliable cloud infrastructures and automate CI/CD pipelines. I focus on creating secure, scalable systems, optimizing processes, and implementing proactive monitoring to ensure 99.9% uptime. My work blends technical excellence with strategic thinking to enable seamless development and deployment.  
+I specialize in utilizing tools like **AWS**, **Power BI**, **Tableau**, and **SQL** to develop secure, scalable cloud infrastructures and generate actionable insights. My experience includes designing and implementing **ETL workflows**, creating interactive dashboards, and automating **CI/CD pipelines** to enable seamless data integration and efficient operations. By combining technical expertise with strategic thinking, I help organizations streamline workflows, enhance performance, and align technical solutions with business goals.
 
 🛠️ My Approach  
 
-I bring an organized, detail-oriented, and automation-first mindset to every project. From designing robust architectures to deploying efficient pipelines, I ensure high-quality results through iterative improvements. I use tools like **Python, Java, and SQL** to automate workflows, optimize performance, and ensure secure operations. My collaborative approach ensures cross-functional alignment and on-time delivery of impactful solutions.  
+I bring an analytical, detail-oriented, and automation-first mindset to every project. I design robust **ETL pipelines**, extract insights from complex datasets using **Python** and **SQL**, and develop scalable workflows with **AWS** services like **S3** and **Lambda**. By collaborating with cross-functional teams, I align technical solutions with business objectives. My focus is on automating workflows and implementing monitoring systems to ensure performance, security, and **99.9%** uptime.
 
 ## 📂 Projects  
 
