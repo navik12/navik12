@@ -1,5 +1,5 @@
 # Hi 👋 I'm Navyasri Kadiyala  
-**Software Developer | DevOps Engineering | Data Analyst**    
+**Data Analyst | Software Developer | DevOps Engineering**    
 
 💼 **Master's Student in Computer Science** | University of Kansas  
 
@@ -61,4 +61,4 @@ I bring an analytical, detail-oriented, and automation-first mindset to every pr
 
 ## 🌍 Let’s Connect!  
 
-I’m actively looking for exciting opportunities in **software development**, **DevOps Engineering** and **Data Analyst**. If you're interested in collaborating on impactful projects, feel free to connect with me!
+I’m actively looking for exciting opportunities in **Data Analyst**, **software development**, and **DevOps Engineering**. If you're interested in collaborating on impactful projects, feel free to connect with me!
