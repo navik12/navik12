@@ -17,7 +17,7 @@ I specialize in utilizing tools like **AWS**, **Power BI**, **Tableau**, **ETL**
 
 🛠️ My Approach  
 
-I bring an analytical, detail-oriented, and automation-first mindset to every project. I design robust **ETL pipelines**, extract insights from complex datasets using **Python**, **SQL**, **R**, **SAS** and develop scalable workflows with **AWS** services like **S3**, **Redshift**, **Lambda**, **DMS**, **Step Function**, **Cloud Formation**, **Lake Formation** and **Cloud Watch**. By collaborating with cross-functional teams, I align technical solutions with business objectives. My focus is on automating workflows and implementing monitoring systems to ensure performance, security, and **99.9%** uptime.
+I bring an analytical, detail-oriented, and automation-first mindset to every project. I design robust **ETL pipelines**, extract insights from complex datasets using **Python**, **SQL**, **R**, **SAS** and develop scalable workflows with **AWS** services like **S3**, **Redshift**, **Lambda**, **DMS**, **Step Function**, **Cloud Formation**, **Lake Formation**, and **Cloud Watch**. By collaborating with cross-functional teams, I align technical solutions with business objectives. My focus is on automating workflows and implementing monitoring systems to ensure performance, security, and **99.9%** uptime.
 
 ## 📂 Projects  
 
