@@ -57,6 +57,7 @@ I bring an analytical, detail-oriented, and automation-first mindset to every pr
 - **Python Data Structures & Algorithm (Udemy)**  
 - **AWS Cloud Practitioner (Udemy)**  
 - **Career Essentials in Business Analysis (Microsoft and LinkedIn)**
+- **Salesforce Certified Administrator Training**
 
 
 ## 🌍 Let’s Connect!  
