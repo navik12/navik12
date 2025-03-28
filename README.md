@@ -9,15 +9,15 @@
 
 ## 🔍 About Me  
 
-Hello 👋! I'm **Navyasri Kadiyala**, a dedicated **Data Analyst and Cloud Integration Specialist** with expertise in **Data Analysis**, **Cloud Computing**, and **Automation**. With over two years of professional experience and a Master’s in **Computer Science**, I thrive on designing scalable systems, uncovering insights from complex datasets, and delivering impactful solutions. My mission is to leverage data and cloud technologies to drive innovation, optimize processes, and support strategic decision-making.  
+Hello 👋! I'm **Navyasri Kadiyala**, a dedicated **Data Engineer** with expertise in **Data Engineer** **Data Analysis**, **Cloud Computing**, and **Automation**. With over two years of professional experience and a Master’s in **Computer Science**, I thrive on designing scalable systems, uncovering insights from complex datasets, and delivering impactful solutions. My mission is to leverage data and cloud technologies to drive innovation, optimize processes, and support strategic decision-making.  
 
 💡 My Focus  
 
-I specialize in utilizing tools like **AWS**, **Power BI**, **Tableau**, and **SQL** to develop secure, scalable cloud infrastructures and generate actionable insights. My experience includes designing and implementing **ETL workflows**, creating interactive dashboards, and automating **CI/CD pipelines** to enable seamless data integration and efficient operations. By combining technical expertise with strategic thinking, I help organizations streamline workflows, enhance performance, and align technical solutions with business goals.
+I specialize in utilizing tools like **AWS**, **Power BI**, **Tableau**,  **ETL**, and **SQL** to develop secure, scalable cloud infrastructures and generate actionable insights. My experience includes designing and implementing **ETL workflows**, creating interactive dashboards, and automating **CI/CD pipelines** to enable seamless data integration and efficient operations. By combining technical expertise with strategic thinking, I help organizations streamline workflows, enhance performance, and align technical solutions with business goals.
 
 🛠️ My Approach  
 
-I bring an analytical, detail-oriented, and automation-first mindset to every project. I design robust **ETL pipelines**, extract insights from complex datasets using **Python** and **SQL**, and develop scalable workflows with **AWS** services like **S3** and **Lambda**. By collaborating with cross-functional teams, I align technical solutions with business objectives. My focus is on automating workflows and implementing monitoring systems to ensure performance, security, and **99.9%** uptime.
+I bring an analytical, detail-oriented, and automation-first mindset to every project. I design robust **ETL pipelines**, extract insights from complex datasets using **Python** and **SQL**,  **R**,  **SAS**  and develop scalable workflows with **AWS** services like **S3**,  **Redshift**,  **Lambda**,  **DMS**,  **Step Function**,  **Cloud Formation**,  **Lake Formation** and **Cloud Watch**. By collaborating with cross-functional teams, I align technical solutions with business objectives. My focus is on automating workflows and implementing monitoring systems to ensure performance, security, and **99.9%** uptime.
 
 ## 📂 Projects  
 
@@ -51,13 +51,14 @@ I bring an analytical, detail-oriented, and automation-first mindset to every pr
 
 ## ✨ Certifications  
 
+- **Salesforce Certified Administrator Training**
 - **AWS Certified Solutions Architect**  
 - **SQL for Data Analysis (Udacity)**  
 - **Google Analytics Certification (Google Digital Academy SKILLSHOP)**  
 - **Python Data Structures & Algorithm (Udemy)**  
 - **AWS Cloud Practitioner (Udemy)**  
 - **Career Essentials in Business Analysis (Microsoft and LinkedIn)**
-- **Salesforce Certified Administrator Training**
+
 
 
 ## 🌍 Let’s Connect!  
