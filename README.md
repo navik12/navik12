@@ -13,11 +13,11 @@ Hello 👋! I'm **Navyasri Kadiyala**, a dedicated **Data Engineer** with expert
 
 💡 My Focus  
 
-I specialize in utilizing tools like **AWS**, **Power BI**, **Tableau**,  **ETL**, and **SQL** to develop secure, scalable cloud infrastructures and generate actionable insights. My experience includes designing and implementing **ETL workflows**, creating interactive dashboards, and automating **CI/CD pipelines** to enable seamless data integration and efficient operations. By combining technical expertise with strategic thinking, I help organizations streamline workflows, enhance performance, and align technical solutions with business goals.
+I specialize in utilizing tools like **AWS**, **Power BI**, **Tableau**, **ETL**, and **SQL** to develop secure, scalable cloud infrastructures and generate actionable insights. My experience includes designing and implementing **ETL workflows**, creating interactive dashboards, and automating **CI/CD pipelines** to enable seamless data integration and efficient operations. By combining technical expertise with strategic thinking, I help organizations streamline workflows, enhance performance, and align technical solutions with business goals.
 
 🛠️ My Approach  
 
-I bring an analytical, detail-oriented, and automation-first mindset to every project. I design robust **ETL pipelines**, extract insights from complex datasets using **Python** and **SQL**,  **R**,  **SAS**  and develop scalable workflows with **AWS** services like **S3**,  **Redshift**,  **Lambda**,  **DMS**,  **Step Function**,  **Cloud Formation**,  **Lake Formation** and **Cloud Watch**. By collaborating with cross-functional teams, I align technical solutions with business objectives. My focus is on automating workflows and implementing monitoring systems to ensure performance, security, and **99.9%** uptime.
+I bring an analytical, detail-oriented, and automation-first mindset to every project. I design robust **ETL pipelines**, extract insights from complex datasets using **Python**, **SQL**, **R**, **SAS** and develop scalable workflows with **AWS** services like **S3**, **Redshift**, **Lambda**, **DMS**, **Step Function**, **Cloud Formation**, **Lake Formation** and **Cloud Watch**. By collaborating with cross-functional teams, I align technical solutions with business objectives. My focus is on automating workflows and implementing monitoring systems to ensure performance, security, and **99.9%** uptime.
 
 ## 📂 Projects  
 
