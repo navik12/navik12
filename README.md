@@ -62,4 +62,4 @@ I bring an analytical, detail-oriented, and automation-first mindset to every pr
 
 ## 🌍 Let’s Connect!  
 
-I’m actively looking for exciting opportunities in **Data Analyst**, **software development**, and **DevOps Engineering**. If you're interested in collaborating on impactful projects, feel free to connect with me!
+I’m actively looking for exciting opportunities in **Data Analyst**, **Data Engineer**, **Salesforce**, and **DevOps Engineering**. If you're interested in collaborating on impactful projects, feel free to connect with me!
