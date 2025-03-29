@@ -1,8 +1,7 @@
 # Hi 👋 I'm Navyasri Kadiyala  
-**Data Analyst | Data Engineer | Salesforce**    
+**Data Analyst | Data Engineer | Salesforce**   
 
-💼 **Master's Student in Computer Science** | University of Kansas  
-
+👩‍🎓 **Master's Student in Computer Science** | University of Kansas  
 📍 **Location**: Lawrence, KS  
 📫 Email: [kadiyalanavyasri3@gmail.com](mailto:kadiyalanavyasri3@gmail.com)
 
