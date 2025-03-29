@@ -8,7 +8,7 @@
 
 ## 🔍 About Me  
 
-Hello 👋! I'm **Navyasri Kadiyala**, a dedicated **Data Engineer** with expertise in **Data Engineer**, **Data Analysis**,**Salesforce**, **Cloud Computing**, and **Automation**. With over two years of professional experience and a Master’s in **Computer Science**, I thrive on designing scalable systems, uncovering insights from complex datasets, and delivering impactful solutions. My mission is to leverage data and cloud technologies to drive innovation, optimize processes, and support strategic decision-making.  
+Hello 👋! I'm **Navyasri Kadiyala**, a dedicated **Data Engineer** with expertise in **Data Engineer**, **Data Analysis**, **Salesforce**, **Cloud Computing**, and **Automation**. With over two years of professional experience and a Master’s in **Computer Science**, I thrive on designing scalable systems, uncovering insights from complex datasets, and delivering impactful solutions. My mission is to leverage data and cloud technologies to drive innovation, optimize processes, and support strategic decision-making.  
 
 💡 My Focus  
 
