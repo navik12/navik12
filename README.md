@@ -1,5 +1,5 @@
 # Hi 👋 I'm Navyasri Kadiyala  
-**Data Analyst | Software Developer | DevOps Engineering**    
+**Data Analyst | Data Engineer | Salesforce**    
 
 💼 **Master's Student in Computer Science** | University of Kansas  
 
