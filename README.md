@@ -3,7 +3,7 @@
 
 👩‍🎓 **Master's Student in Computer Science** | University of Kansas  
 📍 **Location**: Lawrence, KS  
-📫 Email: [kadiyalanavyasri3@gmail.com](mailto:kadiyalanavyasri3@gmail.com)
+📫 Email: navyasrikadiyala7680@gmail.com
 
 
 ## 🔍 About Me  
